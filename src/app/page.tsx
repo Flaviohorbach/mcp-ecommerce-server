@@ -9,7 +9,7 @@ const STDIO_CONFIG = `{
   }
 }`;
 
-const HTTP_EXAMPLE = `curl -X POST https://SEU-SITE/api/mcp \\
+const HTTP_EXAMPLE = `curl -X POST https://mcp-ecommerce-server.vercel.app/api/mcp \\
   -H "Authorization: Bearer demo-catalog-only" \\
   -H "Content-Type: application/json" \\
   -H "Accept: application/json, text/event-stream" \\

@@ -2,6 +2,8 @@
 
 An MCP server that gives any AI agent catalog, inventory and order tools for a store, over a simulated API in VTEX's format. Each token decides which tools exist, and customers can only reach their own orders.
 
+**[Live panel](https://mcp-ecommerce-server.vercel.app)**: switch tokens and watch the same agent gain or lose tools, with every MCP call on screen.
+
 Project 7 of a 12-project AI engineering track focused on front-end. The panel is in Portuguese. All people, addresses and orders are fake, and this project has no link to VTEX.
 
 ## Use it
@@ -23,6 +25,22 @@ Project 7 of a 12-project AI engineering track focused on front-end. The panel i
 
 ```bash
 npx @modelcontextprotocol/inspector npx -y mcp-ecommerce-server
+```
+
+**Over the web,** at `https://mcp-ecommerce-server.vercel.app/api/mcp` with a bearer token. These demo tokens are public because they only reach fake data:
+
+| Token | Sees |
+| --- | --- |
+| `demo-catalog-only` | The catalog |
+| `demo-customer-ana` | The catalog and one customer's orders |
+| `demo-support-agent` | The catalog, inventory and every order |
+
+```bash
+curl -X POST https://mcp-ecommerce-server.vercel.app/api/mcp \
+  -H "Authorization: Bearer demo-catalog-only" \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json, text/event-stream" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/list"}'
 ```
 
 ## What it exposes

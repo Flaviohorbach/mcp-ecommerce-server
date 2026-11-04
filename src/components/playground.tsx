@@ -15,6 +15,12 @@ interface ToolCall {
 
 const failed = (call: ToolCall) => call.state === "output-error" || Boolean((call.output as { error?: unknown } | undefined)?.error);
 
+/** The model answers in light Markdown: bold and bullets are all it uses here, so no parser is needed. */
+function AnswerText({ text }: { text: string }) {
+  const parts = text.replace(/^\s*\*\s+/gm, "• ").split(/\*\*(.+?)\*\*/g);
+  return <>{parts.map((part, i) => (i % 2 === 1 ? <strong key={i} className="font-semibold">{part}</strong> : part))}</>;
+}
+
 function CallRow({ call, position }: { call: ToolCall; position: number }) {
   const running = call.state !== "output-available" && call.state !== "output-error";
   return (
@@ -72,7 +78,7 @@ function Conversation({ personaId, onCalls }: { personaId: PersonaId; onCalls: (
           if (!text) return null;
           return (
             <p key={message.id} className={message.role === "user" ? "ml-auto w-fit max-w-[85%] rounded-xl bg-accent-soft px-3 py-2 text-sm" : "whitespace-pre-wrap text-sm"}>
-              {text}
+              {message.role === "user" ? text : <AnswerText text={text} />}
             </p>
           );
         })}
