@@ -1,0 +1,5183 @@
+[
+ {
+  "productId": "1",
+  "productName": "Máscara de Cílios Essence Lash Princess",
+  "brand": "Essence",
+  "categories": [
+   "/Beleza/"
+  ],
+  "linkText": "mascara-de-cilios-essence-lash-princess",
+  "description": "A máscara Lash Princess da Essence é famosa por garantir volume e alongamento aos fios. Sua fórmula é cruelty-free e oferece um efeito dramático e duradouro para o seu olhar.",
+  "items": [
+   {
+    "itemId": "1001",
+    "name": "Máscara de Cílios Essence Lash Princess",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 54.9,
+       "ListPrice": 54.9,
+       "AvailableQuantity": 99,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "2",
+  "productName": "Paleta de Sombras com Espelho Glamour Beauty",
+  "brand": "Glamour Beauty",
+  "categories": [
+   "/Beleza/"
+  ],
+  "linkText": "paleta-de-sombras-com-espelho-glamour-beauty",
+  "description": "A paleta da Glamour Beauty oferece uma variedade versátil de tons para criar diversos visuais. Com um espelho embutido, é a aliada perfeita para retocar a maquiagem onde você estiver.",
+  "items": [
+   {
+    "itemId": "1002",
+    "name": "Paleta de Sombras com Espelho Glamour Beauty",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 34,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "3",
+  "productName": "Pó Finalizador Powder Canister Velvet Touch",
+  "brand": "Velvet Touch",
+  "categories": [
+   "/Beleza/"
+  ],
+  "linkText": "po-finalizador-powder-canister-velvet-touch",
+  "description": "O Powder Canister da Velvet Touch é um pó fino projetado para selar a maquiagem e controlar o brilho excessivo. Sua fórmula translúcida proporciona um acabamento matte suave e impecável.",
+  "items": [
+   {
+    "itemId": "1003",
+    "name": "Pó Finalizador Powder Canister Velvet Touch",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 81.9,
+       "ListPrice": 81.9,
+       "AvailableQuantity": 89,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "4",
+  "productName": "Batom Vermelho Chic Cosmetics",
+  "brand": "Chic Cosmetics",
+  "categories": [
+   "/Beleza/"
+  ],
+  "linkText": "batom-vermelho-chic-cosmetics",
+  "description": "O batom vermelho da Chic Cosmetics é a escolha clássica para um visual marcante. Sua fórmula cremosa e pigmentada garante uma cor intensa e de longa duração nos lábios.",
+  "items": [
+   {
+    "itemId": "1004",
+    "name": "Batom Vermelho Chic Cosmetics",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 91,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "5",
+  "productName": "Esmalte Vermelho Nail Couture",
+  "brand": "Nail Couture",
+  "categories": [
+   "/Beleza/"
+  ],
+  "linkText": "esmalte-vermelho-nail-couture",
+  "description": "O esmalte vermelho da Nail Couture oferece um tom vibrante e brilhante para unhas bem feitas. Com secagem rápida, você consegue um resultado de salão sem sair de casa.",
+  "items": [
+   {
+    "itemId": "1005",
+    "name": "Esmalte Vermelho Nail Couture",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 48.9,
+       "ListPrice": 48.9,
+       "AvailableQuantity": 79,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "6",
+  "productName": "Perfume Calvin Klein CK One",
+  "brand": "Calvin Klein",
+  "categories": [
+   "/Perfumes/"
+  ],
+  "linkText": "perfume-calvin-klein-ck-one",
+  "description": "O CK One da Calvin Klein é um clássico unissex conhecido por seu aroma fresco e limpo. É uma fragrância versátil e leve, sendo a escolha perfeita para usar todos os dias.",
+  "items": [
+   {
+    "itemId": "1006",
+    "name": "Perfume Calvin Klein CK One",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 29,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "7",
+  "productName": "Perfume Chanel Coco Noir",
+  "brand": "Chanel",
+  "categories": [
+   "/Perfumes/"
+  ],
+  "linkText": "perfume-chanel-coco-noir",
+  "description": "O Coco Noir da Chanel é uma fragrância elegante e misteriosa que traz notas de toranja, rosa e sândalo. É a escolha ideal para mulheres que buscam sofisticação em ocasiões especiais noturnas.",
+  "items": [
+   {
+    "itemId": "1007",
+    "name": "Perfume Chanel Coco Noir",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 714.9,
+       "ListPrice": 714.9,
+       "AvailableQuantity": 58,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "8",
+  "productName": "Perfume Dior J'adore",
+  "brand": "Dior",
+  "categories": [
+   "/Perfumes/"
+  ],
+  "linkText": "perfume-dior-j-adore",
+  "description": "O J'adore da Dior é um perfume luxuoso e floral, combinando ylang-ylang, rosa e jasmim. Ele personifica a feminilidade e a sofisticação em cada borrifada.",
+  "items": [
+   {
+    "itemId": "1008",
+    "name": "Perfume Dior J'adore",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 494.9,
+       "ListPrice": 494.9,
+       "AvailableQuantity": 98,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "9",
+  "productName": "Perfume Dolce & Gabbana Dolce Shine",
+  "brand": "Dolce & Gabbana",
+  "categories": [
+   "/Perfumes/"
+  ],
+  "linkText": "perfume-dolce-gabbana-dolce-shine",
+  "description": "Dolce Shine da Dolce & Gabbana é um perfume vibrante e frutado, destacando notas de manga, jasmim e madeiras claras. É uma fragrância alegre, jovem e cheia de vida.",
+  "items": [
+   {
+    "itemId": "1009",
+    "name": "Perfume Dolce & Gabbana Dolce Shine",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 384.9,
+       "ListPrice": 384.9,
+       "AvailableQuantity": 4,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "10",
+  "productName": "Perfume Gucci Bloom",
+  "brand": "Gucci",
+  "categories": [
+   "/Perfumes/"
+  ],
+  "linkText": "perfume-gucci-bloom",
+  "description": "Gucci Bloom é uma fragrância floral cativante, composta por tuberosa, jasmim e piscão-da-índia. É um perfume moderno e romântico, feito para exalar feminilidade.",
+  "items": [
+   {
+    "itemId": "1010",
+    "name": "Perfume Gucci Bloom",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 439.9,
+       "ListPrice": 439.9,
+       "AvailableQuantity": 91,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "11",
+  "productName": "Cama Annibale Colombo",
+  "brand": "Annibale Colombo",
+  "categories": [
+   "/Móveis/"
+  ],
+  "linkText": "cama-annibale-colombo",
+  "description": "A cama da Annibale Colombo é uma peça de luxo e elegância, fabricada com materiais de alta qualidade para garantir conforto e estilo ao seu quarto. O design refinado transforma o ambiente em um refúgio de descanso.",
+  "items": [
+   {
+    "itemId": "1011",
+    "name": "Cama Annibale Colombo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 10449.9,
+       "ListPrice": 10449.9,
+       "AvailableQuantity": 88,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "12",
+  "productName": "Sofá Annibale Colombo",
+  "brand": "Annibale Colombo",
+  "categories": [
+   "/Móveis/"
+  ],
+  "linkText": "sofa-annibale-colombo",
+  "description": "O sofá Annibale Colombo é uma opção de assento sofisticada e confortável para sua sala. Com design requintado e estofamento premium, ele combina beleza e bem-estar no seu lar.",
+  "items": [
+   {
+    "itemId": "1012",
+    "name": "Sofá Annibale Colombo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 13749.9,
+       "ListPrice": 13749.9,
+       "AvailableQuantity": 60,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "13",
+  "productName": "Mesa de Cabeceira African Cherry Furniture Co.",
+  "brand": "Furniture Co.",
+  "categories": [
+   "/Móveis/"
+  ],
+  "linkText": "mesa-de-cabeceira-african-cherry-furniture-co",
+  "description": "A Mesa de Cabeceira African Cherry é uma peça elegante e funcional para o seu quarto. Ela oferece espaço de armazenamento conveniente e um toque de sofisticação ao ambiente.",
+  "items": [
+   {
+    "itemId": "1013",
+    "name": "Mesa de Cabeceira African Cherry Furniture Co.",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 64,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "14",
+  "productName": "Cadeira de Escritório Knoll Saarinen Executive",
+  "brand": "Knoll",
+  "categories": [
+   "/Móveis/"
+  ],
+  "linkText": "cadeira-de-escritorio-knoll-saarinen-executive",
+  "description": "A Cadeira de Escritório Knoll Saarinen Executive combina design moderno com ergonomia de alto padrão. É uma escolha excelente para escritórios ou salas de reunião que buscam um visual atemporal.",
+  "items": [
+   {
+    "itemId": "1014",
+    "name": "Cadeira de Escritório Knoll Saarinen Executive",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2749.9,
+       "ListPrice": 2749.9,
+       "AvailableQuantity": 26,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "15",
+  "productName": "Pia de Banheiro de Madeira com Espelho Bath Trends",
+  "brand": "Bath Trends",
+  "categories": [
+   "/Móveis/"
+  ],
+  "linkText": "pia-de-banheiro-de-madeira-com-espelho-bath-trends",
+  "description": "A Pia de Banheiro de Madeira com Espelho Bath Trends traz um estilo único para o seu lavabo. O conjunto inclui a bancada em madeira e um espelho que completa a decoração com harmonia.",
+  "items": [
+   {
+    "itemId": "1015",
+    "name": "Pia de Banheiro de Madeira com Espelho Bath Trends",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 4399.9,
+       "ListPrice": 4399.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "43",
+  "productName": "Balanço Decorativo",
+  "brand": "Sem marca",
+  "categories": [
+   "/Decoração/"
+  ],
+  "linkText": "balanco-decorativo",
+  "description": "O Balanço Decorativo é uma peça encantadora que traz um toque de elegância e fantasia para sua casa. Com detalhes minuciosos, ele se destaca em qualquer ambiente.",
+  "items": [
+   {
+    "itemId": "1043",
+    "name": "Balanço Decorativo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 329.9,
+       "ListPrice": 329.9,
+       "AvailableQuantity": 47,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "44",
+  "productName": "Porta-Retrato Árvore Genealógica",
+  "brand": "Sem marca",
+  "categories": [
+   "/Decoração/"
+  ],
+  "linkText": "porta-retrato-arvore-genealogica",
+  "description": "O Porta-Retrato Árvore Genealógica é uma maneira sentimental e estilosa de exibir suas lembranças. Com múltiplos espaços para fotos, ele é ideal para contar a história da sua família.",
+  "items": [
+   {
+    "itemId": "1044",
+    "name": "Porta-Retrato Árvore Genealógica",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 77,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "45",
+  "productName": "Planta Decorativa Artificial",
+  "brand": "Sem marca",
+  "categories": [
+   "/Decoração/"
+  ],
+  "linkText": "planta-decorativa-artificial",
+  "description": "A Planta Decorativa é a solução perfeita para quem deseja trazer natureza para dentro de casa sem preocupações. Ela adiciona frescor e estilo a qualquer cômodo sem exigir manutenção.",
+  "items": [
+   {
+    "itemId": "1045",
+    "name": "Planta Decorativa Artificial",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 28,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "46",
+  "productName": "Vaso de Planta",
+  "brand": "Sem marca",
+  "categories": [
+   "/Decoração/"
+  ],
+  "linkText": "vaso-de-planta",
+  "description": "O Vaso de Planta é o recipiente ideal para valorizar suas plantas favoritas. Com design moderno e elegante, ele compõe perfeitamente jardins internos ou áreas externas.",
+  "items": [
+   {
+    "itemId": "1046",
+    "name": "Vaso de Planta",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 81.9,
+       "ListPrice": 81.9,
+       "AvailableQuantity": 59,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "47",
+  "productName": "Luminária de Mesa",
+  "brand": "Sem marca",
+  "categories": [
+   "/Decoração/"
+  ],
+  "linkText": "luminaria-de-mesa",
+  "description": "A Luminária de Mesa é uma solução funcional e decorativa para iluminar seu espaço. Seu design moderno ajuda tanto na tarefa de leitura quanto na criação de uma atmosfera aconchegante.",
+  "items": [
+   {
+    "itemId": "1047",
+    "name": "Luminária de Mesa",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 9,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "48",
+  "productName": "Espátula de Bambu",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "espatula-de-bambu",
+  "description": "A Espátula de Bambu é uma ferramenta versátil e indispensável para a sua cozinha. Feita de material ecológico, é ideal para mexer, virar e servir diversos pratos.",
+  "items": [
+   {
+    "itemId": "1048",
+    "name": "Espátula de Bambu",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 43.9,
+       "ListPrice": 43.9,
+       "AvailableQuantity": 37,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "49",
+  "productName": "Copo de Alumínio Preto",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "copo-de-aluminio-preto",
+  "description": "O Copo de Alumínio Preto é estiloso e extremamente durável para o seu dia a dia. Adequado para bebidas quentes ou frias, seu design moderno eleva o nível da sua coleção de copos.",
+  "items": [
+   {
+    "itemId": "1049",
+    "name": "Copo de Alumínio Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 32.9,
+       "ListPrice": 32.9,
+       "AvailableQuantity": 75,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "50",
+  "productName": "Fouet (Batedor de Arame) Preto",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "fouet-batedor-de-arame-preto",
+  "description": "O Fouet Preto é um item essencial na cozinha para bater e misturar ingredientes com facilidade. Com cabo ergonômico e design elegante, é uma ferramenta prática para receitas doces e salgadas.",
+  "items": [
+   {
+    "itemId": "1050",
+    "name": "Fouet (Batedor de Arame) Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 54.9,
+       "ListPrice": 54.9,
+       "AvailableQuantity": 73,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "51",
+  "productName": "Liquidificador Compacto",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "liquidificador-compacto",
+  "description": "O Liquidificador Compacto é a solução potente para quem busca praticidade no preparo de bebidas. Perfeito para smoothies, shakes e outras receitas, ocupa pouco espaço na bancada.",
+  "items": [
+   {
+    "itemId": "1051",
+    "name": "Liquidificador Compacto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 9,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "52",
+  "productName": "Wok de Aço Carbono",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "wok-de-aco-carbono",
+  "description": "A Wok de Aço Carbono é uma panela versátil ideal para refogar, fritar e selar alimentos rapidamente. Sua estrutura resistente garante uma distribuição uniforme do calor para preparações deliciosas.",
+  "items": [
+   {
+    "itemId": "1052",
+    "name": "Wok de Aço Carbono",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 40,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "53",
+  "productName": "Tábua de Corte",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "tabua-de-corte",
+  "description": "A Tábua de Corte é um item essencial na organização da sua cozinha durante o preparo dos alimentos. Feita de material durável, ela oferece uma superfície segura e higiênica para cortar e picar ingredientes.",
+  "items": [
+   {
+    "itemId": "1053",
+    "name": "Tábua de Corte",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 14,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "54",
+  "productName": "Espremedor de Frutas Cítricas Amarelo",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "espremedor-de-frutas-citricas-amarelo",
+  "description": "O Espremedor de Frutas Cítricas amarelo é uma ferramenta prática para extrair o máximo de suco de limões e laranjas. Sua cor vibrante traz um toque de alegria e modernidade para seus utensílios de cozinha.",
+  "items": [
+   {
+    "itemId": "1054",
+    "name": "Espremedor de Frutas Cítricas Amarelo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 48.9,
+       "ListPrice": 48.9,
+       "AvailableQuantity": 22,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "55",
+  "productName": "Cortador de Ovos",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "cortador-de-ovos",
+  "description": "O Cortador de Ovos é a ferramenta ideal para fatiar ovos cozidos de forma uniforme e rápida. É perfeito para facilitar o preparo de saladas, sanduíches e pratos decorados.",
+  "items": [
+   {
+    "itemId": "1055",
+    "name": "Cortador de Ovos",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 37.9,
+       "ListPrice": 37.9,
+       "AvailableQuantity": 40,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "56",
+  "productName": "Fogão Elétrico",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "fogao-eletrico",
+  "description": "O Fogão Elétrico oferece uma solução prática e eficiente para quem precisa de portabilidade na cozinha. É ideal para espaços pequenos ou para atuar como uma superfície de cozimento extra.",
+  "items": [
+   {
+    "itemId": "1056",
+    "name": "Fogão Elétrico",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 21,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "57",
+  "productName": "Peneira de Malha Fina",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "peneira-de-malha-fina",
+  "description": "A Peneira de Malha Fina é uma ferramenta versátil indispensável para filtrar líquidos e peneirar ingredientes secos. Sua malha fechada garante resultados lisos e sem grumos em suas receitas.",
+  "items": [
+   {
+    "itemId": "1057",
+    "name": "Peneira de Malha Fina",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 54.9,
+       "ListPrice": 54.9,
+       "AvailableQuantity": 85,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "58",
+  "productName": "Garfo de Mesa",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "garfo-de-mesa",
+  "description": "O Garfo de Mesa possui um design clássico e ergonômico, sendo a escolha ideal para o uso diário. Sua durabilidade garante uma experiência de refeição confiável e confortável.",
+  "items": [
+   {
+    "itemId": "1058",
+    "name": "Garfo de Mesa",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 21.9,
+       "ListPrice": 21.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "59",
+  "productName": "Copo de Vidro",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "copo-de-vidro",
+  "description": "O Copo de Vidro é um recipiente elegante e versátil, adequado para servir uma grande variedade de bebidas. Seu design transparente permite que você aprecie a cor e a textura de cada bebida.",
+  "items": [
+   {
+    "itemId": "1059",
+    "name": "Copo de Vidro",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 26.9,
+       "ListPrice": 26.9,
+       "AvailableQuantity": 46,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "60",
+  "productName": "Ralador Preto",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "ralador-preto",
+  "description": "O Ralador Preto é um utensílio prático com lâminas afiadas, tornando o preparo de queijos e vegetais rápido e eficiente. Seu design moderno se integra perfeitamente a qualquer cozinha.",
+  "items": [
+   {
+    "itemId": "1060",
+    "name": "Ralador Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 59.9,
+       "ListPrice": 59.9,
+       "AvailableQuantity": 84,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "61",
+  "productName": "Mixer de Mão",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "mixer-de-mao",
+  "description": "O Mixer de Mão é um aparelho versátil e compacto, perfeito para misturar, triturar e preparar purês rapidamente. Seu motor potente agiliza o tempo na cozinha em diversas receitas.",
+  "items": [
+   {
+    "itemId": "1061",
+    "name": "Mixer de Mão",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 191.9,
+       "ListPrice": 191.9,
+       "AvailableQuantity": 84,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "62",
+  "productName": "Forma para Gelo",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "forma-para-gelo",
+  "description": "A Forma para Gelo é um acessório prático que permite criar cubos perfeitos para gelar suas bebidas favoritas. É indispensável para manter seus drinks sempre refrescantes.",
+  "items": [
+   {
+    "itemId": "1062",
+    "name": "Forma para Gelo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 32.9,
+       "ListPrice": 32.9,
+       "AvailableQuantity": 13,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "63",
+  "productName": "Peneira de Cozinha",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "peneira-de-cozinha",
+  "description": "A Peneira de Cozinha é uma ferramenta multiúso fundamental para quem busca precisão ao preparar ingredientes secos ou líquidos. Sua malha fina garante resultados impecáveis em todas as suas receitas.",
+  "items": [
+   {
+    "itemId": "1063",
+    "name": "Peneira de Cozinha",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 43.9,
+       "ListPrice": 43.9,
+       "AvailableQuantity": 68,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "64",
+  "productName": "Faca de Cozinha",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "faca-de-cozinha",
+  "description": "Esta faca é um item indispensável para quem busca praticidade na hora de cortar, picar e fatiar alimentos. Com lâmina afiada e cabo ergonômico, ela oferece segurança e conforto em qualquer preparo.",
+  "items": [
+   {
+    "itemId": "1064",
+    "name": "Faca de Cozinha",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 81.9,
+       "ListPrice": 81.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "65",
+  "productName": "Marmita",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "marmita",
+  "description": "A marmita é a solução ideal para quem precisa transportar refeições com praticidade e organização. Com divisórias internas, ela permite que você leve diferentes alimentos com segurança no seu dia a dia.",
+  "items": [
+   {
+    "itemId": "1065",
+    "name": "Marmita",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 94,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "66",
+  "productName": "Forno de Micro-ondas",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "forno-de-micro-ondas",
+  "description": "O micro-ondas é um eletrodoméstico versátil e essencial para cozinhar, esquentar ou descongelar alimentos rapidamente. Seu tamanho compacto garante que ele se encaixe perfeitamente em qualquer cozinha.",
+  "items": [
+   {
+    "itemId": "1066",
+    "name": "Forno de Micro-ondas",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 494.9,
+       "ListPrice": 494.9,
+       "AvailableQuantity": 59,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "67",
+  "productName": "Suporte para Canecas",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "suporte-para-canecas",
+  "description": "O suporte para canecas é a solução elegante para organizar sua cozinha e economizar espaço no armário. Ele mantém suas canecas favoritas sempre à mão e exibidas de forma organizada.",
+  "items": [
+   {
+    "itemId": "1067",
+    "name": "Suporte para Canecas",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 87.9,
+       "ListPrice": 87.9,
+       "AvailableQuantity": 88,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "68",
+  "productName": "Frigideira Antiaderente",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "frigideira-antiaderente",
+  "description": "A frigideira é um item indispensável para fritar, refogar e preparar diversas receitas deliciosas. Graças ao seu revestimento antiaderente, a limpeza torna-se muito mais prática e o alimento não gruda.",
+  "items": [
+   {
+    "itemId": "1068",
+    "name": "Frigideira Antiaderente",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 90,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "69",
+  "productName": "Prato de Mesa",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "prato-de-mesa",
+  "description": "Este prato é um item clássico e fundamental para servir suas refeições com estilo. Com design durável, ele é perfeito tanto para o uso diário quanto para ocasiões especiais.",
+  "items": [
+   {
+    "itemId": "1069",
+    "name": "Prato de Mesa",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 21.9,
+       "ListPrice": 21.9,
+       "AvailableQuantity": 66,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "70",
+  "productName": "Pegador de Cozinha Vermelho",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "pegador-de-cozinha-vermelho",
+  "description": "O pegador vermelho é versátil e perfeito para diversas tarefas, desde grelhar até servir saladas. Sua cor vibrante traz um toque moderno e alegre para os seus utensílios de cozinha.",
+  "items": [
+   {
+    "itemId": "1070",
+    "name": "Pegador de Cozinha Vermelho",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 37.9,
+       "ListPrice": 37.9,
+       "AvailableQuantity": 82,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "71",
+  "productName": "Panela de Prata com Tampa de Vidro",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "panela-de-prata-com-tampa-de-vidro",
+  "description": "Esta panela de prata é uma opção estilosa e funcional para quem ama cozinhar. Com tampa de vidro, você pode acompanhar o cozimento de perto sem precisar abrir a panela.",
+  "items": [
+   {
+    "itemId": "1071",
+    "name": "Panela de Prata com Tampa de Vidro",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 40,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "72",
+  "productName": "Espátula Perfurada",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "espatula-perfurada",
+  "description": "A espátula perfurada é ideal para virar alimentos de forma fácil enquanto grelha ou frita. Graças ao seu design vazado, o excesso de óleo ou líquido é drenado automaticamente, garantindo pratos mais leves.",
+  "items": [
+   {
+    "itemId": "1072",
+    "name": "Espátula Perfurada",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 48.9,
+       "ListPrice": 48.9,
+       "AvailableQuantity": 88,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "73",
+  "productName": "Porta-Temperos",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "porta-temperos",
+  "description": "O porta-temperos é a solução ideal para organizar seus condimentos com praticidade e estilo. Mantenha seus temperos favoritos sempre à mão e tudo organizado no seu balcão de cozinha.",
+  "items": [
+   {
+    "itemId": "1073",
+    "name": "Porta-Temperos",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 79,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "74",
+  "productName": "Colher de Cozinha",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "colher-de-cozinha",
+  "description": "Esta colher é um utensílio versátil essencial para qualquer cozinha, sendo perfeita para mexer, servir e provar suas receitas. Com construção durável, ela é resistente e confortável de usar.",
+  "items": [
+   {
+    "itemId": "1074",
+    "name": "Colher de Cozinha",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 26.9,
+       "ListPrice": 26.9,
+       "AvailableQuantity": 59,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "75",
+  "productName": "Bandeja de Servir",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "bandeja-de-servir",
+  "description": "A bandeja é um item funcional e decorativo que traz charme ao servir lanches, petiscos ou bebidas. É uma peça versátil e essencial para receber convidados com praticidade.",
+  "items": [
+   {
+    "itemId": "1075",
+    "name": "Bandeja de Servir",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 92.9,
+       "ListPrice": 92.9,
+       "AvailableQuantity": 71,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "76",
+  "productName": "Rolo de Massa de Madeira",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "rolo-de-massa-de-madeira",
+  "description": "O Rolo de Massa de Madeira é um utensílio clássico indispensável para abrir massas de forma uniforme. Sua superfície lisa e cabos resistentes facilitam o manuseio durante o preparo de suas receitas.",
+  "items": [
+   {
+    "itemId": "1076",
+    "name": "Rolo de Massa de Madeira",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 65.9,
+       "ListPrice": 65.9,
+       "AvailableQuantity": 80,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "77",
+  "productName": "Descascador Amarelo",
+  "brand": "Sem marca",
+  "categories": [
+   "/Cozinha/"
+  ],
+  "linkText": "descascador-amarelo",
+  "description": "O Descascador Amarelo é uma ferramenta prática que facilita a remoção de cascas de frutas e legumes. Seu design vibrante traz um toque de cor e alegria para a sua cozinha.",
+  "items": [
+   {
+    "itemId": "1077",
+    "name": "Descascador Amarelo",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 32.9,
+       "ListPrice": 32.9,
+       "AvailableQuantity": 35,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "78",
+  "productName": "Apple MacBook Pro 14 Polegadas Space Grey",
+  "brand": "Apple",
+  "categories": [
+   "/Notebooks/"
+  ],
+  "linkText": "apple-macbook-pro-14-polegadas-space-grey",
+  "description": "O MacBook Pro de 14 polegadas na cor Space Grey é um notebook potente e elegante. Equipado com o chip M1 Pro, ele oferece desempenho excepcional e uma tela Retina deslumbrante.",
+  "items": [
+   {
+    "itemId": "1078",
+    "name": "Apple MacBook Pro 14 Polegadas Space Grey",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 10999.9,
+       "ListPrice": 10999.9,
+       "AvailableQuantity": 24,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "79",
+  "productName": "Notebook Asus Zenbook Pro com Tela Dupla",
+  "brand": "Asus",
+  "categories": [
+   "/Notebooks/"
+  ],
+  "linkText": "notebook-asus-zenbook-pro-com-tela-dupla",
+  "description": "O Asus Zenbook Pro Dual Screen é um dispositivo de alta performance projetado para elevar sua produtividade. Com suas duas telas, ele oferece versatilidade sem igual para profissionais criativos.",
+  "items": [
+   {
+    "itemId": "1079",
+    "name": "Notebook Asus Zenbook Pro com Tela Dupla",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 9899.9,
+       "ListPrice": 9899.9,
+       "AvailableQuantity": 45,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "80",
+  "productName": "Huawei Matebook X Pro",
+  "brand": "Huawei",
+  "categories": [
+   "/Notebooks/"
+  ],
+  "linkText": "huawei-matebook-x-pro",
+  "description": "O Huawei Matebook X Pro é um notebook fino, estiloso e equipado com uma tela sensível ao toque de alta resolução. É a escolha ideal para usuários que buscam uma experiência premium em qualquer lugar.",
+  "items": [
+   {
+    "itemId": "1080",
+    "name": "Huawei Matebook X Pro",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 7699.9,
+       "ListPrice": 7699.9,
+       "AvailableQuantity": 75,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "81",
+  "productName": "Lenovo Yoga 920",
+  "brand": "Lenovo",
+  "categories": [
+   "/Notebooks/"
+  ],
+  "linkText": "lenovo-yoga-920",
+  "description": "O Lenovo Yoga 920 é um notebook 2 em 1 flexível que se adapta às suas necessidades. Com sua dobradiça especial, ele funciona como notebook ou tablet, unindo versatilidade e facilidade de transporte.",
+  "items": [
+   {
+    "itemId": "1081",
+    "name": "Lenovo Yoga 920",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 6049.9,
+       "ListPrice": 6049.9,
+       "AvailableQuantity": 40,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "82",
+  "productName": "Novo Notebook DELL XPS 13 9300",
+  "brand": "Dell",
+  "categories": [
+   "/Notebooks/"
+  ],
+  "linkText": "novo-notebook-dell-xps-13-9300",
+  "description": "O novo Dell XPS 13 9300 é um dispositivo compacto e incrivelmente poderoso. Ele se destaca pela tela InfinityEdge praticamente sem bordas e pelo desempenho de alta qualidade para diversas tarefas.",
+  "items": [
+   {
+    "itemId": "1082",
+    "name": "Novo Notebook DELL XPS 13 9300",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 8249.9,
+       "ListPrice": 8249.9,
+       "AvailableQuantity": 74,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "83",
+  "productName": "Camisa Xadrez Azul e Preta",
+  "brand": "Fashion Trends",
+  "categories": [
+   "/Camisas masculinas/"
+  ],
+  "linkText": "camisa-xadrez-azul-e-preta",
+  "description": "A Camisa Xadrez Azul e Preta é uma peça estilosa e confortável para o guarda-roupa masculino. Com seu padrão clássico, ela se adapta facilmente a eventos casuais ou situações de trabalho mais informais.",
+  "items": [
+   {
+    "itemId": "1083",
+    "name": "Camisa Xadrez Azul e Preta",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 38,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "84",
+  "productName": "Camiseta Masculina Gigabyte Aorus",
+  "brand": "Gigabyte",
+  "categories": [
+   "/Camisas masculinas/"
+  ],
+  "linkText": "camiseta-masculina-gigabyte-aorus",
+  "description": "A Camiseta Gigabyte Aorus é a escolha ideal para fãs de tecnologia e games. Com o logo da Aorus e um design moderno, ela é perfeita para expressar sua paixão pelo mundo gamer com estilo.",
+  "items": [
+   {
+    "itemId": "1084",
+    "name": "Camiseta Masculina Gigabyte Aorus",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 90,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "85",
+  "productName": "Camisa Masculina Plaid",
+  "brand": "Classic Wear",
+  "categories": [
+   "/Camisas masculinas/"
+  ],
+  "linkText": "camisa-masculina-plaid",
+  "description": "A Camisa Plaid é uma peça atemporal e versátil para todo homem. Seu padrão xadrez clássico e ajuste confortável a tornam um item indispensável em qualquer guarda-roupa para diversas ocasiões.",
+  "items": [
+   {
+    "itemId": "1085",
+    "name": "Camisa Masculina Plaid",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 191.9,
+       "ListPrice": 191.9,
+       "AvailableQuantity": 82,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "86",
+  "productName": "Camisa Masculina Manga Curta",
+  "brand": "Casual Comfort",
+  "categories": [
+   "/Camisas masculinas/"
+  ],
+  "linkText": "camisa-masculina-manga-curta",
+  "description": "A Camisa de Manga Curta é a opção perfeita para manter o estilo mesmo nos dias mais quentes. Com um corte confortável e leve, ela garante um visual arrumado e descontraído ao mesmo tempo.",
+  "items": [
+   {
+    "itemId": "1086",
+    "name": "Camisa Masculina Manga Curta",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 2,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "87",
+  "productName": "Camisa Masculina Check",
+  "brand": "Urban Chic",
+  "categories": [
+   "/Camisas masculinas/"
+  ],
+  "linkText": "camisa-masculina-check",
+  "description": "A Camisa Masculina Check é uma peça clássica com padrão xadrez elegante. Versátil, ela traz um toque inteligente e polido ao seu visual, sendo indicada para os mais variados eventos.",
+  "items": [
+   {
+    "itemId": "1087",
+    "name": "Camisa Masculina Check",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 153.9,
+       "ListPrice": 153.9,
+       "AvailableQuantity": 95,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "88",
+  "productName": "Tênis Nike Air Jordan 1 Vermelho e Preto",
+  "brand": "Nike",
+  "categories": [
+   "/Calçados masculinos/"
+  ],
+  "linkText": "tenis-nike-air-jordan-1-vermelho-e-preto",
+  "description": "O Nike Air Jordan 1 nas cores vermelho e preto é um ícone das quadras com um design lendário. Ele combina o visual clássico do basquete com alto desempenho, sendo indispensável para fãs de cultura sneaker.",
+  "items": [
+   {
+    "itemId": "1088",
+    "name": "Tênis Nike Air Jordan 1 Vermelho e Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 824.9,
+       "ListPrice": 824.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "89",
+  "productName": "Chuteiras de Baseball Nike",
+  "brand": "Nike",
+  "categories": [
+   "/Calçados masculinos/"
+  ],
+  "linkText": "chuteiras-de-baseball-nike",
+  "description": "As chuteiras de baseball da Nike foram desenvolvidas para oferecer o máximo em tração e performance em campo. Elas garantem a estabilidade e o suporte necessários para jogadores durante treinos e partidas decisivas.",
+  "items": [
+   {
+    "itemId": "1089",
+    "name": "Chuteiras de Baseball Nike",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 439.9,
+       "ListPrice": 439.9,
+       "AvailableQuantity": 12,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "90",
+  "productName": "Tênis Puma Future Rider",
+  "brand": "Puma",
+  "categories": [
+   "/Calçados masculinos/"
+  ],
+  "linkText": "tenis-puma-future-rider",
+  "description": "O Puma Future Rider traz uma mistura perfeita de estilo retrô com o conforto moderno. É a opção ideal para quem busca um calçado fashion e confortável para usar no dia a dia.",
+  "items": [
+   {
+    "itemId": "1090",
+    "name": "Tênis Puma Future Rider",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 494.9,
+       "ListPrice": 494.9,
+       "AvailableQuantity": 90,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "91",
+  "productName": "Tênis Esportivo Off White & Vermelho",
+  "brand": "Off White",
+  "categories": [
+   "/Calçados masculinos/"
+  ],
+  "linkText": "tenis-esportivo-off-white-vermelho",
+  "description": "Este tênis esportivo une estilo autêntico e funcionalidade em um design impactante. As cores off white e vermelho oferecem um toque energético para o visual de qualquer esportista.",
+  "items": [
+   {
+    "itemId": "1091",
+    "name": "Tênis Esportivo Off White & Vermelho",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 659.9,
+       "ListPrice": 659.9,
+       "AvailableQuantity": 17,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "92",
+  "productName": "Tênis Esportivo Off White Vermelho",
+  "brand": "Off White",
+  "categories": [
+   "/Calçados masculinos/"
+  ],
+  "linkText": "tenis-esportivo-off-white-vermelho",
+  "description": "Uma variante exclusiva do tênis esportivo Off White Red que destaca um design único. Ele proporciona o equilíbrio ideal entre conforto e estilo para as ocasiões casuais do seu dia.",
+  "items": [
+   {
+    "itemId": "1092",
+    "name": "Tênis Esportivo Off White Vermelho",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 604.9,
+       "ListPrice": 604.9,
+       "AvailableQuantity": 62,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "93",
+  "productName": "Relógio com Pulseira de Couro Marrom",
+  "brand": "Fashion Timepieces",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-com-pulseira-de-couro-marrom",
+  "description": "Este relógio com pulseira de couro marrom é um acessório clássico e elegante para qualquer homem. Com seu mostrador elegante e design atemporal, ele eleva instantaneamente o seu visual.",
+  "items": [
+   {
+    "itemId": "1093",
+    "name": "Relógio com Pulseira de Couro Marrom",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 494.9,
+       "ListPrice": 494.9,
+       "AvailableQuantity": 32,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "94",
+  "productName": "Relógio Longines Master Collection",
+  "brand": "Longines",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-longines-master-collection",
+  "description": "A coleção Longines Master Collection é sinônimo de elegância e requinte no mundo da relojoaria. Com precisão absoluta e design clássico, é a escolha perfeita para quem busca um item de luxo atemporal.",
+  "items": [
+   {
+    "itemId": "1094",
+    "name": "Relógio Longines Master Collection",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 8249.9,
+       "ListPrice": 8249.9,
+       "AvailableQuantity": 100,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "95",
+  "productName": "Relógio Rolex Cellini Date com Mostrador Preto",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-rolex-cellini-date-com-mostrador-preto",
+  "description": "O Rolex Cellini Date com mostrador preto é uma peça de prestígio que exala sofisticação. Com sua complicação de data e design clássico, ele representa a rica herança da relojoaria Rolex.",
+  "items": [
+   {
+    "itemId": "1095",
+    "name": "Relógio Rolex Cellini Date com Mostrador Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 49499.9,
+       "ListPrice": 49499.9,
+       "AvailableQuantity": 40,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "96",
+  "productName": "Relógio Rolex Cellini Moonphase",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-rolex-cellini-moonphase",
+  "description": "O Rolex Cellini Moonphase é uma verdadeira obra-prima que incorpora a função de fases da lua. Refletindo o compromisso da marca com a elegância, é um relógio que chama a atenção pela sua beleza única.",
+  "items": [
+   {
+    "itemId": "1096",
+    "name": "Relógio Rolex Cellini Moonphase",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 71499.9,
+       "ListPrice": 71499.9,
+       "AvailableQuantity": 36,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "97",
+  "productName": "Relógio Rolex Datejust",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-rolex-datejust",
+  "description": "O Rolex Datejust é um ícone de versatilidade e design atemporal. Com sua icônica janela de data, ele permanece como um símbolo de excelência e confiabilidade para quem busca o melhor.",
+  "items": [
+   {
+    "itemId": "1097",
+    "name": "Relógio Rolex Datejust",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 60499.9,
+       "ListPrice": 60499.9,
+       "AvailableQuantity": 86,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "98",
+  "productName": "Relógio Rolex Submariner",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios masculinos/"
+  ],
+  "linkText": "relogio-rolex-submariner",
+  "description": "O Rolex Submariner é lendário no mundo do mergulho, combinando história e durabilidade inigualável. Um símbolo definitivo de aventura, este relógio é construído para resistir às condições mais extremas.",
+  "items": [
+   {
+    "itemId": "1098",
+    "name": "Relógio Rolex Submariner",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 76999.9,
+       "ListPrice": 76999.9,
+       "AvailableQuantity": 55,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "99",
+  "productName": "Amazon Echo Plus",
+  "brand": "Amazon",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "amazon-echo-plus",
+  "description": "O Amazon Echo Plus é um alto-falante inteligente potente com a Alexa integrada. Além da excelente qualidade de som, ele atua como um hub central para controlar todos os seus dispositivos de casa inteligente.",
+  "items": [
+   {
+    "itemId": "1099",
+    "name": "Amazon Echo Plus",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 549.9,
+       "ListPrice": 549.9,
+       "AvailableQuantity": 61,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "100",
+  "productName": "Apple AirPods",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-airpods",
+  "description": "Os Apple AirPods oferecem uma experiência sonora sem fios prática e intuitiva. Com pareamento rápido e integração com a Siri, são ideais para quem busca qualidade de som no dia a dia.",
+  "items": [
+   {
+    "itemId": "1100",
+    "name": "Apple AirPods",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 714.9,
+       "ListPrice": 714.9,
+       "AvailableQuantity": 67,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "101",
+  "productName": "Apple AirPods Max Silver",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-airpods-max-silver",
+  "description": "O Apple AirPods Max na cor prata combina áudio de alta fidelidade com um design over-ear sofisticado. Com cancelamento ativo de ruído, ele proporciona uma imersão sonora completa e confortável.",
+  "items": [
+   {
+    "itemId": "1101",
+    "name": "Apple AirPods Max Silver",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 3024.9,
+       "ListPrice": 3024.9,
+       "AvailableQuantity": 59,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "102",
+  "productName": "Apple AirPower Wireless Charger",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-airpower-wireless-charger",
+  "description": "O Apple AirPower Wireless Charger oferece um método conveniente e organizado para carregar seus dispositivos Apple. Basta posicionar seus aparelhos sobre a base para iniciar o carregamento.",
+  "items": [
+   {
+    "itemId": "1102",
+    "name": "Apple AirPower Wireless Charger",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 439.9,
+       "ListPrice": 439.9,
+       "AvailableQuantity": 1,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "103",
+  "productName": "Apple HomePod Mini Cosmic Grey",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-homepod-mini-cosmic-grey",
+  "description": "O Apple HomePod Mini na cor cinza espacial é uma caixa de som inteligente compacta que entrega áudio impressionante. Ele se integra perfeitamente ao ecossistema Apple para gerenciar sua casa inteligente.",
+  "items": [
+   {
+    "itemId": "1103",
+    "name": "Apple HomePod Mini Cosmic Grey",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 549.9,
+       "ListPrice": 549.9,
+       "AvailableQuantity": 27,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "104",
+  "productName": "Apple iPhone Charger",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-iphone-charger",
+  "description": "O carregador para iPhone da Apple garante uma recarga rápida e eficiente para o seu dispositivo. É a solução original e confiável para manter seu aparelho sempre pronto para uso.",
+  "items": [
+   {
+    "itemId": "1104",
+    "name": "Apple iPhone Charger",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 31,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "105",
+  "productName": "Apple MagSafe Battery Pack",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-magsafe-battery-pack",
+  "description": "O Apple MagSafe Battery Pack é uma solução portátil para estender a bateria do seu iPhone compatível. Com fixação magnética segura, ele se encaixa perfeitamente no aparelho.",
+  "items": [
+   {
+    "itemId": "1105",
+    "name": "Apple MagSafe Battery Pack",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 549.9,
+       "ListPrice": 549.9,
+       "AvailableQuantity": 1,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "106",
+  "productName": "Apple Watch Series 4 Gold",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "apple-watch-series-4-gold",
+  "description": "O Apple Watch Series 4 na cor dourada é um smartwatch elegante e avançado. Ele combina monitoramento de saúde, rastreamento de atividades físicas e uma tela Retina deslumbrante.",
+  "items": [
+   {
+    "itemId": "1106",
+    "name": "Apple Watch Series 4 Gold",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1924.9,
+       "ListPrice": 1924.9,
+       "AvailableQuantity": 33,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "107",
+  "productName": "Beats Flex Wireless Earphones",
+  "brand": "Beats",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "beats-flex-wireless-earphones",
+  "description": "Os fones de ouvido sem fio Beats Flex oferecem uma experiência sonora versátil e confortável. Com earbuds magnéticos, são a escolha ideal para o uso cotidiano.",
+  "items": [
+   {
+    "itemId": "1107",
+    "name": "Beats Flex Wireless Earphones",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 50,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "108",
+  "productName": "iPhone 12 Silicone Case with MagSafe Plum",
+  "brand": "Apple",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "iphone-12-silicone-case-with-magsafe-plum",
+  "description": "A capa de silicone com MagSafe para iPhone 12 na cor ameixa oferece proteção estilosa e eficiente. Graças à tecnologia MagSafe, o encaixe de acessórios é feito com facilidade.",
+  "items": [
+   {
+    "itemId": "1108",
+    "name": "iPhone 12 Silicone Case with MagSafe Plum",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 69,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "109",
+  "productName": "Monopod TechGear",
+  "brand": "TechGear",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "monopod-techgear",
+  "description": "O monopod da TechGear é um acessório versátil que permite capturar fotos e vídeos com estabilidade. É perfeito para ajustar ângulos de disparo com facilidade e precisão.",
+  "items": [
+   {
+    "itemId": "1109",
+    "name": "Monopod TechGear",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 48,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "110",
+  "productName": "Selfie Lamp with iPhone",
+  "brand": "GadgetMaster",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "selfie-lamp-with-iphone",
+  "description": "A Selfie Lamp da GadgetMaster é uma luz LED portátil e ajustável feita para realçar suas fotos e chamadas de vídeo. Fixe-a no seu iPhone e garanta sempre uma iluminação perfeita.",
+  "items": [
+   {
+    "itemId": "1110",
+    "name": "Selfie Lamp with iPhone",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 81.9,
+       "ListPrice": 81.9,
+       "AvailableQuantity": 58,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "111",
+  "productName": "Selfie Stick Monopod SnapTech",
+  "brand": "SnapTech",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "selfie-stick-monopod-snaptech",
+  "description": "O Selfie Stick Monopod da SnapTech é um dispositivo extensível e dobrável ideal para capturar selfies perfeitas ou fotos de grupo. É compatível com diversos smartphones e câmeras.",
+  "items": [
+   {
+    "itemId": "1111",
+    "name": "Selfie Stick Monopod SnapTech",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 11,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "112",
+  "productName": "TV Studio Camera Pedestal ProVision",
+  "brand": "ProVision",
+  "categories": [
+   "/Acessórios para celular/"
+  ],
+  "linkText": "tv-studio-camera-pedestal-provision",
+  "description": "O pedestal de câmera ProVision é um suporte profissional projetado para oferecer movimentos suaves e precisos em estúdios. É a escolha ideal para produções televisivas e transmissões que exigem alta performance.",
+  "items": [
+   {
+    "itemId": "1112",
+    "name": "TV Studio Camera Pedestal ProVision",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2749.9,
+       "ListPrice": 2749.9,
+       "AvailableQuantity": 15,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "118",
+  "productName": "Sabonete Líquido Attitude Super Leaves",
+  "brand": "Attitude",
+  "categories": [
+   "/Cuidados com a pele/"
+  ],
+  "linkText": "sabonete-liquido-attitude-super-leaves",
+  "description": "O sabonete líquido Attitude Super Leaves utiliza ingredientes naturais derivados de super folhas para limpar e nutrir as mãos. Sua fórmula garante uma limpeza eficaz enquanto deixa a pele macia e hidratada.",
+  "items": [
+   {
+    "itemId": "1118",
+    "name": "Sabonete Líquido Attitude Super Leaves",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 48.9,
+       "ListPrice": 48.9,
+       "AvailableQuantity": 94,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "119",
+  "productName": "Sabonete Líquido Corporal Olay Ultra Moisture Shea Butter",
+  "brand": "Olay",
+  "categories": [
+   "/Cuidados com a pele/"
+  ],
+  "linkText": "sabonete-liquido-corporal-olay-ultra-moisture-shea-butter",
+  "description": "O sabonete líquido Olay Ultra Moisture com manteiga de karité transforma seu banho em um momento de hidratação luxuosa. Ele proporciona uma espuma rica que deixa a pele visivelmente mais macia e sedosa.",
+  "items": [
+   {
+    "itemId": "1119",
+    "name": "Sabonete Líquido Corporal Olay Ultra Moisture Shea Butter",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 34,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "120",
+  "productName": "Loção Corporal e Facial Vaseline Men",
+  "brand": "Vaseline",
+  "categories": [
+   "/Cuidados com a pele/"
+  ],
+  "linkText": "locao-corporal-e-facial-vaseline-men",
+  "description": "A loção Vaseline Men foi desenvolvida especialmente para a pele masculina, garantindo hidratação duradoura tanto para o rosto quanto para o corpo. Com absorção rápida, mantém a pele saudável sem deixar aspecto pegajoso.",
+  "items": [
+   {
+    "itemId": "1120",
+    "name": "Loção Corporal e Facial Vaseline Men",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 54.9,
+       "ListPrice": 54.9,
+       "AvailableQuantity": 95,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "121",
+  "productName": "iPhone 5s Apple",
+  "brand": "Apple",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "iphone-5s-apple",
+  "description": "O iPhone 5s é um smartphone clássico da Apple, reconhecido pelo seu design compacto e facilidade de uso. Embora seja um modelo mais antigo, oferece uma experiência confiável para tarefas do dia a dia.",
+  "items": [
+   {
+    "itemId": "1121",
+    "name": "iPhone 5s Apple",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1099.9,
+       "ListPrice": 1099.9,
+       "AvailableQuantity": 25,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "122",
+  "productName": "iPhone 6 Apple",
+  "brand": "Apple",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "iphone-6-apple",
+  "description": "O iPhone 6 trouxe um design elegante com tela maior e melhorias significativas de desempenho em sua época. É uma opção estilosa para quem busca a qualidade de construção da Apple em um dispositivo prático.",
+  "items": [
+   {
+    "itemId": "1122",
+    "name": "iPhone 6 Apple",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 60,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "123",
+  "productName": "iPhone 13 Pro Apple",
+  "brand": "Apple",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "iphone-13-pro-apple",
+  "description": "O iPhone 13 Pro é um smartphone de última geração com sistema de câmeras avançado e desempenho excepcional. Combinando uma tela impressionante com um chip de alta velocidade, é ideal para usuários exigentes.",
+  "items": [
+   {
+    "itemId": "1123",
+    "name": "iPhone 13 Pro Apple",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 6049.9,
+       "ListPrice": 6049.9,
+       "AvailableQuantity": 56,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "124",
+  "productName": "iPhone X Apple",
+  "brand": "Apple",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "iphone-x-apple",
+  "description": "O iPhone X marcou um marco na história da Apple com sua tela OLED sem bordas e o reconhecimento facial Face ID. É um aparelho que combina inovação em design com uma performance marcante.",
+  "items": [
+   {
+    "itemId": "1124",
+    "name": "iPhone X Apple",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 4949.9,
+       "ListPrice": 4949.9,
+       "AvailableQuantity": 37,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "125",
+  "productName": "Oppo A57",
+  "brand": "Oppo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "oppo-a57",
+  "description": "O Oppo A57 é um smartphone focado no equilíbrio, unindo design elegante com recursos essenciais para o dia a dia. É a escolha popular para quem busca um aparelho capaz e com preço acessível.",
+  "items": [
+   {
+    "itemId": "1125",
+    "name": "Oppo A57",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1374.9,
+       "ListPrice": 1374.9,
+       "AvailableQuantity": 19,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "126",
+  "productName": "Oppo F19 Pro Plus",
+  "brand": "Oppo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "oppo-f19-pro-plus",
+  "description": "O Oppo F19 Pro Plus é um smartphone premium focado em oferecer uma experiência fotográfica avançada e um desempenho poderoso. É ideal para quem busca tecnologia de ponta em suas capturas e velocidade de uso.",
+  "items": [
+   {
+    "itemId": "1126",
+    "name": "Oppo F19 Pro Plus",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2199.9,
+       "ListPrice": 2199.9,
+       "AvailableQuantity": 78,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "127",
+  "productName": "Oppo K1",
+  "brand": "Oppo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "oppo-k1",
+  "description": "A série Oppo K1 oferece celulares com design estiloso e confiabilidade para os mais diversos perfis de usuários. Combinando visual moderno e especificações sólidas, é uma linha que preza pelo bem-estar tecnológico.",
+  "items": [
+   {
+    "itemId": "1127",
+    "name": "Oppo K1",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 55,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "128",
+  "productName": "Realme C35",
+  "brand": "Realme",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "realme-c35",
+  "description": "O Realme C35 é um smartphone voltado para quem busca economia e funcionalidade, entregando tudo o que é essencial para o cotidiano. É um aparelho confiável, com desempenho estável e fácil de utilizar.",
+  "items": [
+   {
+    "itemId": "1128",
+    "name": "Realme C35",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 824.9,
+       "ListPrice": 824.9,
+       "AvailableQuantity": 48,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "129",
+  "productName": "Smartphone Realme X",
+  "brand": "Realme",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-realme-x",
+  "description": "O Realme X é um smartphone intermediário que se destaca pelo design elegante e uma tela impressionante. É a escolha ideal para quem busca um aparelho equilibrado, que oferece bom desempenho e qualidade de fotos para o dia a dia.",
+  "items": [
+   {
+    "itemId": "1129",
+    "name": "Smartphone Realme X",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 12,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "130",
+  "productName": "Smartphone Realme XT",
+  "brand": "Realme",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-realme-xt",
+  "description": "O Realme XT é um smartphone repleto de recursos, com foco especial na tecnologia de câmera. Equipado com sensores avançados, ele entrega fotos e vídeos de alta qualidade para quem não abre mão de registrar cada detalhe.",
+  "items": [
+   {
+    "itemId": "1130",
+    "name": "Smartphone Realme XT",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1924.9,
+       "ListPrice": 1924.9,
+       "AvailableQuantity": 80,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "131",
+  "productName": "Smartphone Samsung Galaxy S7",
+  "brand": "Samsung",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-samsung-galaxy-s7",
+  "description": "O Samsung Galaxy S7 é um marco entre os smartphones premium, unindo design sofisticado e recursos avançados. Ele traz uma tela de altíssima resolução, câmera potente e um desempenho robusto para qualquer tarefa.",
+  "items": [
+   {
+    "itemId": "1131",
+    "name": "Smartphone Samsung Galaxy S7",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 67,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "132",
+  "productName": "Smartphone Samsung Galaxy S8",
+  "brand": "Samsung",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-samsung-galaxy-s8",
+  "description": "O Samsung Galaxy S8 é um smartphone sofisticado que se destaca pela sua tela Infinity Display, proporcionando uma experiência visual imersiva. Ele reúne tecnologia de ponta e recursos avançados de câmera em um design elegante.",
+  "items": [
+   {
+    "itemId": "1132",
+    "name": "Smartphone Samsung Galaxy S8",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2749.9,
+       "ListPrice": 2749.9,
+       "AvailableQuantity": 0,
+       "IsAvailable": false
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "133",
+  "productName": "Smartphone Samsung Galaxy S10",
+  "brand": "Samsung",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-samsung-galaxy-s10",
+  "description": "O Samsung Galaxy S10 é um dispositivo emblemático que apresenta uma tela AMOLED dinâmica impressionante e um sistema de câmeras extremamente versátil. Ele é a definição de inovação, oferecendo um desempenho poderoso para os usuários mais exigentes.",
+  "items": [
+   {
+    "itemId": "1133",
+    "name": "Smartphone Samsung Galaxy S10",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 3849.9,
+       "ListPrice": 3849.9,
+       "AvailableQuantity": 19,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "134",
+  "productName": "Smartphone Vivo S1",
+  "brand": "Vivo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-vivo-s1",
+  "description": "O Vivo S1 é um smartphone que equilibra perfeitamente um design moderno e um desempenho confiável para o dia a dia. Com uma tela vibrante e um conjunto de câmeras eficiente, é uma excelente opção para quem busca estilo e funcionalidade.",
+  "items": [
+   {
+    "itemId": "1134",
+    "name": "Smartphone Vivo S1",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1374.9,
+       "ListPrice": 1374.9,
+       "AvailableQuantity": 50,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "135",
+  "productName": "Smartphone Vivo V9",
+  "brand": "Vivo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-vivo-v9",
+  "description": "O Vivo V9 é amplamente reconhecido pelo seu design elegante, com destaque especial para a qualidade das selfies. É um smartphone moderno, equipado com um sistema de câmera dupla, ideal para quem busca estilo e ótimas fotos.",
+  "items": [
+   {
+    "itemId": "1135",
+    "name": "Smartphone Vivo V9",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1649.9,
+       "ListPrice": 1649.9,
+       "AvailableQuantity": 82,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "136",
+  "productName": "Smartphone Vivo X21",
+  "brand": "Vivo",
+  "categories": [
+   "/Smartphones/"
+  ],
+  "linkText": "smartphone-vivo-x21",
+  "description": "O Vivo X21 é um smartphone premium focado em tecnologia de vanguarda e inovação. Com recursos como o sensor de impressão digital integrado na tela, ele oferece uma experiência de usuário sofisticada e muito eficiente.",
+  "items": [
+   {
+    "itemId": "1136",
+    "name": "Smartphone Vivo X21",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2749.9,
+       "ListPrice": 2749.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "137",
+  "productName": "Bola de Futebol Americano",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-futebol-americano",
+  "description": "Esta bola de futebol americano é um clássico indispensável para partidas e treinos. Projetada para garantir excelente aderência ao arremessar e receber, é o equipamento essencial para praticar esse esporte dinâmico.",
+  "items": [
+   {
+    "itemId": "1137",
+    "name": "Bola de Futebol Americano",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 53,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "138",
+  "productName": "Bola de Beisebol",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-beisebol",
+  "description": "A bola de beisebol é o padrão utilizado em jogos oficiais, projetada para oferecer performance e durabilidade. Com sua cobertura em couro, é a escolha certa para arremessadores e rebatedores que buscam precisão no campo.",
+  "items": [
+   {
+    "itemId": "1138",
+    "name": "Bola de Beisebol",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 48.9,
+       "ListPrice": 48.9,
+       "AvailableQuantity": 100,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "139",
+  "productName": "Luva de Beisebol",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "luva-de-beisebol",
+  "description": "A luva de beisebol é um equipamento de proteção indispensável para jogadores de todos os níveis. Ela foi desenhada para oferecer conforto e total controle na hora de capturar e defender a bola durante a partida.",
+  "items": [
+   {
+    "itemId": "1139",
+    "name": "Luva de Beisebol",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 22,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "140",
+  "productName": "Bola de Basquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-basquete",
+  "description": "Esta bola de basquete é o padrão para quem busca performance nas quadras. Ideal para dribles, arremessos e passes, ela é versátil o suficiente para acompanhar seus treinos tanto em quadras cobertas quanto ao ar livre.",
+  "items": [
+   {
+    "itemId": "1140",
+    "name": "Bola de Basquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 81.9,
+       "ListPrice": 81.9,
+       "AvailableQuantity": 75,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "141",
+  "productName": "Aro de Basquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "aro-de-basquete",
+  "description": "O aro de basquete é um conjunto robusto de aro e rede, ideal para montagem em tabelas. Ele serve como o alvo perfeito para seus arremessos e pontuações durante o jogo.",
+  "items": [
+   {
+    "itemId": "1141",
+    "name": "Aro de Basquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 43,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "142",
+  "productName": "Bola de Críquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-criquete",
+  "description": "Esta bola de críquete é um item essencial, fabricado com material rígido para garantir a dinâmica correta do jogo. Seu design com costura reforçada permite um desempenho consistente em lançamentos e rebatidas.",
+  "items": [
+   {
+    "itemId": "1142",
+    "name": "Bola de Críquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 70.9,
+       "ListPrice": 70.9,
+       "AvailableQuantity": 30,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "143",
+  "productName": "Taco de Críquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "taco-de-criquete",
+  "description": "O taco de críquete é uma peça fundamental para qualquer batedor que busca precisão e força. Fabricado em madeira de qualidade, oferece o equilíbrio necessário para acertar a bola com eficiência.",
+  "items": [
+   {
+    "itemId": "1143",
+    "name": "Taco de Críquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 98,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "144",
+  "productName": "Capacete de Críquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "capacete-de-criquete",
+  "description": "O capacete de críquete oferece a proteção essencial para jogadores durante a partida. Ele é indispensável para proteger a cabeça contra lançamentos rápidos e quiques inesperados da bola.",
+  "items": [
+   {
+    "itemId": "1144",
+    "name": "Capacete de Críquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 246.9,
+       "ListPrice": 246.9,
+       "AvailableQuantity": 10,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "145",
+  "productName": "Wicket de Críquete",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "wicket-de-criquete",
+  "description": "O wicket de críquete é o conjunto principal para a disputa do jogo, composto por três stumps e dois bails. Essencial para que os batedores possam marcar corridas enquanto protegem seu alvo.",
+  "items": [
+   {
+    "itemId": "1145",
+    "name": "Wicket de Críquete",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 25,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "146",
+  "productName": "Peteca de Badminton com Penas",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "peteca-de-badminton-com-penas",
+  "description": "A peteca de badminton com penas naturais é a escolha certa para quem busca velocidade e precisão em quadra. Seu design proporciona a estabilidade necessária durante os jogos de alta intensidade.",
+  "items": [
+   {
+    "itemId": "1146",
+    "name": "Peteca de Badminton com Penas",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 32.9,
+       "ListPrice": 32.9,
+       "AvailableQuantity": 95,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "147",
+  "productName": "Bola de Futebol",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-futebol",
+  "description": "Esta bola de futebol é a parceira ideal para seus jogos semanais. Projetada para chutar e passar com precisão, oferece o toque clássico e a durabilidade necessária para o campo.",
+  "items": [
+   {
+    "itemId": "1147",
+    "name": "Bola de Futebol",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 98.9,
+       "ListPrice": 98.9,
+       "AvailableQuantity": 96,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "148",
+  "productName": "Bola de Golfe",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-golfe",
+  "description": "Com dimples aerodinâmicos na superfície, esta bola de golfe foi criada para proporcionar mais distância e elevação a cada tacada. É a escolha essencial para melhorar seu desempenho no green.",
+  "items": [
+   {
+    "itemId": "1148",
+    "name": "Bola de Golfe",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 54.9,
+       "ListPrice": 54.9,
+       "AvailableQuantity": 84,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "149",
+  "productName": "Taco de Golfe Iron",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "taco-de-golfe-iron",
+  "description": "O taco Iron é versátil e indispensável para diversos tipos de jogadas, desde aproximações até o chipping. Seu design com cabeça de metal garante o impacto necessário para um controle superior da bola.",
+  "items": [
+   {
+    "itemId": "1149",
+    "name": "Taco de Golfe Iron",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 90,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "150",
+  "productName": "Taco de Beisebol em Metal",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "taco-de-beisebol-em-metal",
+  "description": "Leve e incrivelmente durável, este taco de beisebol em metal é ideal para treinos de rebatida e jogos. Sua construção em liga metálica permite um swing rápido e potente.",
+  "items": [
+   {
+    "itemId": "1150",
+    "name": "Taco de Beisebol em Metal",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 16,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "151",
+  "productName": "Bola de Tênis",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-tenis",
+  "description": "A bola de tênis padrão foi desenvolvida para oferecer o quique perfeito e ótima resposta nas quadras. Seja para treinos ou para uma partida competitiva, ela garante a consistência que você precisa.",
+  "items": [
+   {
+    "itemId": "1151",
+    "name": "Bola de Tênis",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 37.9,
+       "ListPrice": 37.9,
+       "AvailableQuantity": 28,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "152",
+  "productName": "Raquete de Tênis",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "raquete-de-tenis",
+  "description": "Essencial para qualquer tenista, esta raquete combina um frame resistente com cordas de alta tensão. Ela permite que você execute golpes com precisão e controle em qualquer nível de jogo.",
+  "items": [
+   {
+    "itemId": "1152",
+    "name": "Raquete de Tênis",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 6,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "153",
+  "productName": "Bola de Vôlei",
+  "brand": "Sem marca",
+  "categories": [
+   "/Esporte/"
+  ],
+  "linkText": "bola-de-volei",
+  "description": "Esta bola de vôlei é o equipamento padrão ideal para suas partidas. Foi desenhada para garantir precisão em cada toque, levantamento e corte sobre a rede.",
+  "items": [
+   {
+    "itemId": "1153",
+    "name": "Bola de Vôlei",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 65.9,
+       "ListPrice": 65.9,
+       "AvailableQuantity": 0,
+       "IsAvailable": false
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "154",
+  "productName": "Óculos de Sol Black Fashion Shades",
+  "brand": "Fashion Shades",
+  "categories": [
+   "/Óculos de sol/"
+  ],
+  "linkText": "oculos-de-sol-black-fashion-shades",
+  "description": "Os óculos de sol pretos da Fashion Shades combinam estilo clássico com proteção. Com armação elegante e lentes escuras, são um acessório indispensável para qualquer visual.",
+  "items": [
+   {
+    "itemId": "1154",
+    "name": "Óculos de Sol Black Fashion Shades",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 60,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "155",
+  "productName": "Óculos de Sol Classic Fashion Shades",
+  "brand": "Fashion Shades",
+  "categories": [
+   "/Óculos de sol/"
+  ],
+  "linkText": "oculos-de-sol-classic-fashion-shades",
+  "description": "Os óculos Classic da Fashion Shades trazem um design atemporal com armação neutra. São a escolha perfeita para quem busca versatilidade e proteção para o dia a dia.",
+  "items": [
+   {
+    "itemId": "1155",
+    "name": "Óculos de Sol Classic Fashion Shades",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 1,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "156",
+  "productName": "Óculos de Sol Verde e Preto Fashion Shades",
+  "brand": "Fashion Shades",
+  "categories": [
+   "/Óculos de sol/"
+  ],
+  "linkText": "oculos-de-sol-verde-e-preto-fashion-shades",
+  "description": "Destaque-se com os óculos Fashion Shades nas cores verde e preto. Um acessório vibrante e moderno que adiciona personalidade ao seu visual.",
+  "items": [
+   {
+    "itemId": "1156",
+    "name": "Óculos de Sol Verde e Preto Fashion Shades",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 191.9,
+       "ListPrice": 191.9,
+       "AvailableQuantity": 24,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "157",
+  "productName": "Óculos de Sol Party Fashion Fun",
+  "brand": "Fashion Fun",
+  "categories": [
+   "/Óculos de sol/"
+  ],
+  "linkText": "oculos-de-sol-party-fashion-fun",
+  "description": "Os óculos Party da marca Fashion Fun são perfeitos para garantir a diversão nas suas festas. Com designs únicos e coloridos, eles dão o toque final ao seu look comemorativo.",
+  "items": [
+   {
+    "itemId": "1157",
+    "name": "Óculos de Sol Party Fashion Fun",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 86,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "158",
+  "productName": "Óculos de Sol Fashion Shades",
+  "brand": "Fashion Shades",
+  "categories": [
+   "/Óculos de sol/"
+  ],
+  "linkText": "oculos-de-sol-fashion-shades",
+  "description": "Estes óculos de sol da Fashion Shades oferecem um design clássico com foco na funcionalidade. Garantem proteção UV essencial com um visual sóbrio para todas as horas.",
+  "items": [
+   {
+    "itemId": "1158",
+    "name": "Óculos de Sol Fashion Shades",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 125.9,
+       "ListPrice": 125.9,
+       "AvailableQuantity": 27,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "159",
+  "productName": "iPad Mini 2021 Starlight Apple",
+  "brand": "Apple",
+  "categories": [
+   "/Tablets/"
+  ],
+  "linkText": "ipad-mini-2021-starlight-apple",
+  "description": "O iPad Mini 2021 é a combinação perfeita de portabilidade e potência. Com tela Retina e o chip série A da Apple, é ideal para quem precisa de tecnologia na palma da mão.",
+  "items": [
+   {
+    "itemId": "1159",
+    "name": "iPad Mini 2021 Starlight Apple",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 2749.9,
+       "ListPrice": 2749.9,
+       "AvailableQuantity": 47,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "160",
+  "productName": "Samsung Galaxy Tab S8 Plus Grey Samsung",
+  "brand": "Samsung",
+  "categories": [
+   "/Tablets/"
+  ],
+  "linkText": "samsung-galaxy-tab-s8-plus-grey-samsung",
+  "description": "O Samsung Galaxy Tab S8 Plus é um tablet de alta performance ideal para trabalho e entretenimento. Com tela AMOLED vibrante e suporte à S Pen, ele eleva sua produtividade.",
+  "items": [
+   {
+    "itemId": "1160",
+    "name": "Samsung Galaxy Tab S8 Plus Grey Samsung",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 3299.9,
+       "ListPrice": 3299.9,
+       "AvailableQuantity": 62,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "161",
+  "productName": "Samsung Galaxy Tab White Samsung",
+  "brand": "Samsung",
+  "categories": [
+   "/Tablets/"
+  ],
+  "linkText": "samsung-galaxy-tab-white-samsung",
+  "description": "O Samsung Galaxy Tab na cor branca é um tablet versátil e elegante para o seu dia a dia. Oferece uma ótima experiência de navegação e bateria de longa duração para diversos usos.",
+  "items": [
+   {
+    "itemId": "1161",
+    "name": "Samsung Galaxy Tab White Samsung",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 1924.9,
+       "ListPrice": 1924.9,
+       "AvailableQuantity": 92,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "162",
+  "productName": "Vestido Azul Frock",
+  "brand": "Sem marca",
+  "categories": [
+   "/Moda feminina/"
+  ],
+  "linkText": "vestido-azul-frock",
+  "description": "O Vestido Azul Frock é uma escolha charmosa e elegante para diversas ocasiões. Seu corte confortável e tom vibrante trazem estilo e sofisticação ao guarda-roupa feminino.",
+  "items": [
+   {
+    "itemId": "1162",
+    "name": "Vestido Azul Frock",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 52,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "163",
+  "productName": "Vestido Infantil de Verão",
+  "brand": "Sem marca",
+  "categories": [
+   "/Moda feminina/"
+  ],
+  "linkText": "vestido-infantil-de-verao",
+  "description": "O Vestido Infantil de Verão é leve, breezy e perfeito para os dias quentes. Com estampas alegres, é a escolha ideal para manter a criança fresquinha e estilosa.",
+  "items": [
+   {
+    "itemId": "1163",
+    "name": "Vestido Infantil de Verão",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 43,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "164",
+  "productName": "Vestido Cinza",
+  "brand": "Sem marca",
+  "categories": [
+   "/Moda feminina/"
+  ],
+  "linkText": "vestido-cinza",
+  "description": "O Vestido Cinza é uma peça versátil e chic, essencial em qualquer guarda-roupa. Sua cor neutra permite compor desde visuais básicos até looks mais elaborados.",
+  "items": [
+   {
+    "itemId": "1164",
+    "name": "Vestido Cinza",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 191.9,
+       "ListPrice": 191.9,
+       "AvailableQuantity": 55,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "165",
+  "productName": "Short Frock",
+  "brand": "Sem marca",
+  "categories": [
+   "/Moda feminina/"
+  ],
+  "linkText": "short-frock",
+  "description": "O Short Frock é um vestido curto, moderno e descontraído, perfeito para quem busca um visual leve. Ele combina estilo e conforto para garantir um look cheio de personalidade em diversas ocasiões.",
+  "items": [
+   {
+    "itemId": "1165",
+    "name": "Short Frock",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 22,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "166",
+  "productName": "Tartan Dress",
+  "brand": "Sem marca",
+  "categories": [
+   "/Moda feminina/"
+  ],
+  "linkText": "tartan-dress",
+  "description": "O Tartan Dress apresenta o clássico padrão xadrez, trazendo um toque atemporal e sofisticado ao seu guarda-roupa. É a escolha ideal para os dias de outono e inverno, agregando charme tradicional ao visual.",
+  "items": [
+   {
+    "itemId": "1166",
+    "name": "Tartan Dress",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 73,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "172",
+  "productName": "Bolsa Feminina Blue Fashionista",
+  "brand": "Fashionista",
+  "categories": [
+   "/Bolsas/"
+  ],
+  "linkText": "bolsa-feminina-blue-fashionista",
+  "description": "A bolsa azul da Fashionista é um acessório estiloso e espaçoso para o dia a dia. Com uma cor vibrante e vários compartimentos, ela une moda e funcionalidade com praticidade.",
+  "items": [
+   {
+    "itemId": "1172",
+    "name": "Bolsa Feminina Blue Fashionista",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 76,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "173",
+  "productName": "Bolsa de Couro Feminina Heshe",
+  "brand": "Heshe",
+  "categories": [
+   "/Bolsas/"
+  ],
+  "linkText": "bolsa-de-couro-feminina-heshe",
+  "description": "A bolsa de couro Heshe é um acessório luxuoso de alta qualidade para a mulher sofisticada. Seu design atemporal e durabilidade garantem versatilidade para qualquer composição.",
+  "items": [
+   {
+    "itemId": "1173",
+    "name": "Bolsa de Couro Feminina Heshe",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 714.9,
+       "ListPrice": 714.9,
+       "AvailableQuantity": 99,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "174",
+  "productName": "Bolsa Feminina Prada",
+  "brand": "Prada",
+  "categories": [
+   "/Bolsas/"
+  ],
+  "linkText": "bolsa-feminina-prada",
+  "description": "A bolsa Prada é um acessório icônico que esbanja elegância e luxo. Com acabamento preciso e a logo característica, é uma peça de destaque para amantes da moda.",
+  "items": [
+   {
+    "itemId": "1174",
+    "name": "Bolsa Feminina Prada",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 3299.9,
+       "ListPrice": 3299.9,
+       "AvailableQuantity": 75,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "175",
+  "productName": "Mochila de Couro Sintético Branca Urban Chic",
+  "brand": "Urban Chic",
+  "categories": [
+   "/Bolsas/"
+  ],
+  "linkText": "mochila-de-couro-sintetico-branca-urban-chic",
+  "description": "A mochila branca Urban Chic é prática e moderna, ideal para a rotina da mulher contemporânea. Seu design elegante oferece um espaço generoso para carregar o que você precisa com estilo.",
+  "items": [
+   {
+    "itemId": "1175",
+    "name": "Mochila de Couro Sintético Branca Urban Chic",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 219.9,
+       "ListPrice": 219.9,
+       "AvailableQuantity": 39,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "176",
+  "productName": "Bolsa Feminina Preta Elegance Collection",
+  "brand": "Elegance Collection",
+  "categories": [
+   "/Bolsas/"
+  ],
+  "linkText": "bolsa-feminina-preta-elegance-collection",
+  "description": "A bolsa preta da Elegance Collection é o clássico indispensável que completa qualquer visual. Com design versátil, ela é a escolha certeira para quem preza por elegância e praticidade.",
+  "items": [
+   {
+    "itemId": "1176",
+    "name": "Bolsa Feminina Preta Elegance Collection",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 329.9,
+       "ListPrice": 329.9,
+       "AvailableQuantity": 11,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "177",
+  "productName": "Vestido de Festa Preto",
+  "brand": "Sem marca",
+  "categories": [
+   "/Vestidos/"
+  ],
+  "linkText": "vestido-de-festa-preto",
+  "description": "Este vestido preto é uma peça atemporal que exala sofisticação e estilo. Com um corte elegante, é a escolha perfeita para brilhar em eventos formais e festas especiais.",
+  "items": [
+   {
+    "itemId": "1177",
+    "name": "Vestido de Festa Preto",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 714.9,
+       "ListPrice": 714.9,
+       "AvailableQuantity": 25,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "178",
+  "productName": "Conjunto Corset de Couro com Saia",
+  "brand": "Sem marca",
+  "categories": [
+   "/Vestidos/"
+  ],
+  "linkText": "conjunto-corset-de-couro-com-saia",
+  "description": "Este conjunto combina a ousadia do corset de couro com uma saia coordenada. É a escolha perfeita para quem deseja criar um visual marcante e cheio de atitude.",
+  "items": [
+   {
+    "itemId": "1178",
+    "name": "Conjunto Corset de Couro com Saia",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 494.9,
+       "ListPrice": 494.9,
+       "AvailableQuantity": 30,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "179",
+  "productName": "Corset com Saia Preta",
+  "brand": "Sem marca",
+  "categories": [
+   "/Vestidos/"
+  ],
+  "linkText": "corset-com-saia-preta",
+  "description": "O Corset com Saia Preta oferece um visual coordenado, chic e versátil. É a combinação perfeita entre a modernidade do corset e o clássico de uma saia preta bem ajustada.",
+  "items": [
+   {
+    "itemId": "1179",
+    "name": "Corset com Saia Preta",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 439.9,
+       "ListPrice": 439.9,
+       "AvailableQuantity": 33,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "180",
+  "productName": "Dress Pea",
+  "brand": "Sem marca",
+  "categories": [
+   "/Vestidos/"
+  ],
+  "linkText": "dress-pea",
+  "description": "O Dress Pea é um vestido divertido com estampa de ervilhas, perfeito para trazer leveza ao guarda-roupa. Sua modelagem confortável o torna uma ótima opção para o dia a dia.",
+  "items": [
+   {
+    "itemId": "1180",
+    "name": "Dress Pea",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 6,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "181",
+  "productName": "Marni Red & Black Suit",
+  "brand": "Sem marca",
+  "categories": [
+   "/Vestidos/"
+  ],
+  "linkText": "marni-red-black-suit",
+  "description": "O conjunto Marni em vermelho e preto é um look de alfaiataria moderno e sofisticado. Com uma combinação de cores forte, é o traje ideal para quem deseja transmitir confiança e estilo.",
+  "items": [
+   {
+    "itemId": "1181",
+    "name": "Marni Red & Black Suit",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 989.9,
+       "ListPrice": 989.9,
+       "AvailableQuantity": 62,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "182",
+  "productName": "Brinco de Cristal Verde",
+  "brand": "Sem marca",
+  "categories": [
+   "/Joias/"
+  ],
+  "linkText": "brinco-de-cristal-verde",
+  "description": "O Brinco de Cristal Verde é um acessório deslumbrante que destaca um cristal vibrante. Com um design clássico, ele adiciona um toque de elegância ao seu visual.",
+  "items": [
+   {
+    "itemId": "1182",
+    "name": "Brinco de Cristal Verde",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 54,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "183",
+  "productName": "Brinco Oval Verde",
+  "brand": "Sem marca",
+  "categories": [
+   "/Joias/"
+  ],
+  "linkText": "brinco-oval-verde",
+  "description": "O Brinco Oval Verde é uma peça versátil com um formato oval único. Seu design contemporâneo e tom vibrante tornam este acessório um destaque em qualquer produção.",
+  "items": [
+   {
+    "itemId": "1183",
+    "name": "Brinco Oval Verde",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 136.9,
+       "ListPrice": 136.9,
+       "AvailableQuantity": 73,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "184",
+  "productName": "Brinco Tropical",
+  "brand": "Sem marca",
+  "categories": [
+   "/Joias/"
+  ],
+  "linkText": "brinco-tropical",
+  "description": "O Brinco Tropical é um acessório divertido e lúdico inspirado em elementos da natureza. Ele traz cores vivas e um design alegre para dar um toque de verão ao seu visual.",
+  "items": [
+   {
+    "itemId": "1184",
+    "name": "Brinco Tropical",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 1,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "185",
+  "productName": "Chinelo Comfort Trends Preto e Marrom",
+  "brand": "Comfort Trends",
+  "categories": [
+   "/Calçados femininos/"
+  ],
+  "linkText": "chinelo-comfort-trends-preto-e-marrom",
+  "description": "O Chinelo Comfort Trends Preto e Marrom é a escolha perfeita para quem prioriza conforto e estilo em momentos de relaxamento. A combinação de cores traz um toque de sofisticação para dentro de casa.",
+  "items": [
+   {
+    "itemId": "1185",
+    "name": "Chinelo Comfort Trends Preto e Marrom",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 109.9,
+       "ListPrice": 109.9,
+       "AvailableQuantity": 3,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "186",
+  "productName": "Sapato de Salto Calvin Klein",
+  "brand": "Calvin Klein",
+  "categories": [
+   "/Calçados femininos/"
+  ],
+  "linkText": "sapato-de-salto-calvin-klein",
+  "description": "Os sapatos de salto da Calvin Klein são elegantes e sofisticados, ideais para ocasiões que exigem um visual impecável. Com design clássico e materiais de alta qualidade, completam seu look com muita classe.",
+  "items": [
+   {
+    "itemId": "1186",
+    "name": "Sapato de Salto Calvin Klein",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 439.9,
+       "ListPrice": 439.9,
+       "AvailableQuantity": 93,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "187",
+  "productName": "Sapato Dourado Fashion Diva",
+  "brand": "Fashion Diva",
+  "categories": [
+   "/Calçados femininos/"
+  ],
+  "linkText": "sapato-dourado-fashion-diva",
+  "description": "O Sapato Dourado da Fashion Diva é a escolha glamorosa para ocasiões especiais. Com uma tonalidade dourada luxuosa, ele é o ponto alto de qualquer outfit.",
+  "items": [
+   {
+    "itemId": "1187",
+    "name": "Sapato Dourado Fashion Diva",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 274.9,
+       "ListPrice": 274.9,
+       "AvailableQuantity": 88,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "188",
+  "productName": "Tênis Casual Pampi",
+  "brand": "Pampi",
+  "categories": [
+   "/Calçados femininos/"
+  ],
+  "linkText": "tenis-casual-pampi",
+  "description": "Os tênis da Pampi unem conforto e estilo para o dia a dia. Com design versátil, são a escolha ideal para compor um look moderno e relaxado em diversas ocasiões.",
+  "items": [
+   {
+    "itemId": "1188",
+    "name": "Tênis Casual Pampi",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 164.9,
+       "ListPrice": 164.9,
+       "AvailableQuantity": 49,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "189",
+  "productName": "Sapato Vermelho Fashion Express",
+  "brand": "Fashion Express",
+  "categories": [
+   "/Calçados femininos/"
+  ],
+  "linkText": "sapato-vermelho-fashion-express",
+  "description": "O Sapato Vermelho Fashion Express é a escolha perfeita para quem quer um toque de ousadia. Ele eleva qualquer look básico, sendo ideal tanto para festas quanto para saídas casuais.",
+  "items": [
+   {
+    "itemId": "1189",
+    "name": "Sapato Vermelho Fashion Express",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 191.9,
+       "ListPrice": 191.9,
+       "AvailableQuantity": 7,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "190",
+  "productName": "Relógio IWC Ingenieur Automatic Steel",
+  "brand": "IWC",
+  "categories": [
+   "/Relógios femininos/"
+  ],
+  "linkText": "relogio-iwc-ingenieur-automatic-steel",
+  "description": "O IWC Ingenieur Automatic Steel é um relógio de luxo durável e sofisticado. Com movimento automático e caixa de aço inoxidável, ele alia precisão relojoeira com um estilo impecável.",
+  "items": [
+   {
+    "itemId": "1190",
+    "name": "Relógio IWC Ingenieur Automatic Steel",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 27499.9,
+       "ListPrice": 27499.9,
+       "AvailableQuantity": 90,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "191",
+  "productName": "Relógio Rolex Cellini Moonphase",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios femininos/"
+  ],
+  "linkText": "relogio-rolex-cellini-moonphase",
+  "description": "O Rolex Cellini Moonphase é uma verdadeira obra-prima da relojoaria. Com a exclusiva complicação de fases da lua, ele demonstra toda a elegância e artesanato pelos quais a marca é renomada.",
+  "items": [
+   {
+    "itemId": "1191",
+    "name": "Relógio Rolex Cellini Moonphase",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 87999.9,
+       "ListPrice": 87999.9,
+       "AvailableQuantity": 52,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "192",
+  "productName": "Relógio Rolex Datejust Feminino",
+  "brand": "Rolex",
+  "categories": [
+   "/Relógios femininos/"
+  ],
+  "linkText": "relogio-rolex-datejust-feminino",
+  "description": "O Rolex Datejust é um ícone atemporal projetado especialmente para mulheres. Oferece elegância funcional com sua complicação de data e design clássico.",
+  "items": [
+   {
+    "itemId": "1192",
+    "name": "Relógio Rolex Datejust Feminino",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 60499.9,
+       "ListPrice": 60499.9,
+       "AvailableQuantity": 4,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "193",
+  "productName": "Relógio Dourado Feminino Fashion Gold",
+  "brand": "Fashion Gold",
+  "categories": [
+   "/Relógios femininos/"
+  ],
+  "linkText": "relogio-dourado-feminino-fashion-gold",
+  "description": "O Relógio Dourado Feminino Fashion Gold é um acessório deslumbrante que une luxo e estilo. Com caixa banhada a ouro, ele adiciona um toque de glamour a qualquer produção.",
+  "items": [
+   {
+    "itemId": "1193",
+    "name": "Relógio Dourado Feminino Fashion Gold",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 4399.9,
+       "ListPrice": 4399.9,
+       "AvailableQuantity": 0,
+       "IsAvailable": false
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "productId": "194",
+  "productName": "Relógio Feminino Fashion Co.",
+  "brand": "Fashion Co.",
+  "categories": [
+   "/Relógios femininos/"
+  ],
+  "linkText": "relogio-feminino-fashion-co",
+  "description": "O relógio feminino da Fashion Co. é uma peça versátil e elegante, ideal para acompanhar você no dia a dia. Seu design simples permite combinações variadas, sendo um acessório indispensável para compor diferentes estilos.",
+  "items": [
+   {
+    "itemId": "1194",
+    "name": "Relógio Feminino Fashion Co.",
+    "images": [
+     {
+      "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/thumbnail.webp"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "Price": 714.9,
+       "ListPrice": 714.9,
+       "AvailableQuantity": 12,
+       "IsAvailable": true
+      }
+     }
+    ]
+   }
+  ]
+ }
+]

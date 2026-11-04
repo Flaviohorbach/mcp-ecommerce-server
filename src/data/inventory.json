@@ -1,0 +1,2985 @@
+[
+ {
+  "skuId": "1001",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 70,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 29,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1002",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1003",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 63,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1004",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 64,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1005",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 57,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1006",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1007",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 41,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1008",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 69,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 29,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1009",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1010",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 66,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1011",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 62,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1012",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1013",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 45,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1014",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1015",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 7,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1043",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 33,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1044",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 54,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1045",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 21,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1046",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1047",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1048",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 11,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1049",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 53,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1050",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 53,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1051",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1052",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1053",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 4,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1054",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 6,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1055",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 30,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1056",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 6,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1057",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 60,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1058",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1059",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 33,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 13,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1060",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 61,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1061",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 59,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1062",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1063",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 48,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 20,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1064",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1065",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 68,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1066",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1067",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 62,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1068",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 63,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1069",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 47,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1070",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 59,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1071",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1072",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 62,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1073",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 56,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1074",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1075",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 52,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1076",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 56,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1077",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1078",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1079",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 32,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 13,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1080",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 54,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1081",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1082",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 52,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1083",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 11,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1084",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 63,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1085",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 59,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1086",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1087",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 67,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1088",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1089",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1090",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 65,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1091",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1092",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 44,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1093",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1094",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 70,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 30,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1095",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 30,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1096",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1097",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 61,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1098",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 39,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1099",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 43,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1100",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 49,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 20,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1101",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1102",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1103",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1104",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1105",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 2,
+    "reservedQuantity": 1,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1106",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1107",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 35,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1108",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 49,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 20,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1109",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 34,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1110",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1111",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1112",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 11,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 4,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1118",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 66,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1119",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 10,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1120",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 68,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 29,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1121",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1122",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1123",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 40,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1124",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 11,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1125",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 15,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 6,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1126",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 55,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1127",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 39,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1128",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 34,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1129",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1130",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 58,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1131",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 47,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 20,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1132",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1133",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1134",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 35,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1135",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 59,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1136",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1137",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 38,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1138",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 70,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 30,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1139",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 6,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1140",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 54,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 23,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1141",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 31,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1142",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1143",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 69,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 29,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1144",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1145",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 19,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1146",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 67,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1147",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 68,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 28,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1148",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 59,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1149",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 63,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1150",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 13,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1151",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 20,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1152",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1153",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1154",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 42,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1155",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 2,
+    "reservedQuantity": 1,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1156",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 17,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1157",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 61,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 25,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1158",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1159",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 33,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1160",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 45,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 19,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1161",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 65,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1162",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 37,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1163",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 31,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1164",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 39,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1165",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 17,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1166",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 52,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1172",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 54,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1173",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 70,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 29,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1174",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 53,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 22,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1175",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 29,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 12,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1176",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 8,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1177",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 7,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1178",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1179",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 24,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1180",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 6,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1181",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 44,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 18,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1182",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 38,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 16,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1183",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 52,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 21,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1184",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1185",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 4,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1186",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 66,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1187",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 62,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 26,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1188",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 35,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 14,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1189",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 5,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 2,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1190",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 65,
+    "reservedQuantity": 2,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 27,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1191",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 37,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 15,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1192",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 1,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1193",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 0,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ },
+ {
+  "skuId": "1194",
+  "balance": [
+   {
+    "warehouseId": "cd-sp",
+    "warehouseName": "CD São Paulo",
+    "totalQuantity": 9,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   },
+   {
+    "warehouseId": "cd-rs",
+    "warehouseName": "CD Porto Alegre",
+    "totalQuantity": 3,
+    "reservedQuantity": 0,
+    "hasUnlimitedQuantity": false
+   }
+  ]
+ }
+]

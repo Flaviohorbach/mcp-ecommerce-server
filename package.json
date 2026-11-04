@@ -1,0 +1,65 @@
+{
+  "name": "mcp-ecommerce-server",
+  "version": "0.1.0",
+  "description": "MCP server that gives AI agents catalog, inventory and order tools for a store, over a simulated VTEX API.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Flávio Horbach",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaviohorbach/mcp-ecommerce-server.git"
+  },
+  "homepage": "https://github.com/Flaviohorbach/mcp-ecommerce-server#readme",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ecommerce",
+    "vtex",
+    "ai-agents"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "mcp-ecommerce-server": "dist/stdio.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build:bin": "tsup",
+    "prepublishOnly": "npm run build:bin",
+    "lint": "eslint",
+    "test": "vitest run",
+    "typecheck": "next typegen && tsc --noEmit",
+    "data:generate": "tsx scripts/generate-fixtures.ts",
+    "eval": "tsx --env-file-if-exists=.env.local eval/run.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@ai-sdk/google": "^4.0.111",
+    "@ai-sdk/react": "^4.0.166",
+    "@modelcontextprotocol/client": "^2.4.0",
+    "@tailwindcss/turbopack": "^4.3.4",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "ai": "^7.0.162",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.5",
+    "next": "^16.4.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.4",
+    "tsup": "^9.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.0"
+  }
+}
