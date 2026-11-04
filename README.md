@@ -81,6 +81,17 @@ The rules are enforced by the server, never by asking the model, because text re
 - **Tokens are compared as hashes in constant time,** and the environment stores only the hashes.
 - **Rate limits** apply per token, and per address on failed logins, which slows down token guessing.
 
+## Does an agent use it correctly?
+
+12 of 12 cases pass ([cases](eval/cases.json), [answers](eval/results.json)). Each question goes through a real MCP connection and a real model, then fixed rules check which tools were called and what the answer says. The cases were written before the first run. They cover customers asking for other people's orders, a token with no order tools, a two-step lookup and a prompt injection inside a customer's note, which the agent ignored and flagged as suspicious.
+
+**Passing does not mean perfect.** Reading the answers shows two things the rules do not catch:
+
+- **A promise it cannot keep.** Asked for a refund, the agent correctly refused, but then said it would forward the request to the human team. No tool does that.
+- **A vague refusal.** With the catalog-only token, it searched products for an order number, then said it could not find the order, rather than saying it has no access to orders.
+
+Twelve cases in one run, on whichever free model answered, is a small sample. Security does not rest on this result: the access rules are enforced by the server and covered by the automated tests.
+
 ## Decisions
 
 - **SDK v2, not v1.** v1 is now the maintenance line and does not implement the 2026-07-28 spec. v2 also answers clients on the 2025 protocol from the same code.

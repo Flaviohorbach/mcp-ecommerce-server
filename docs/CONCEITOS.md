@@ -62,7 +62,15 @@ A nota do pedido `v502106lvtx-01` foi escrita pelo "cliente" e tenta dar ordens 
 
 Converter centavos em reais é tarefa do servidor. O agente recebe `totalBRL`, sem precisar saber que o OMS usa centavos.
 
-## 6. Limites deste projeto, para dizer em entrevista
+## 6. Avaliar o uso, não só o código
+
+Os testes provam que o servidor aplica as regras. Já `eval/run.ts` verifica outra coisa: se um agente real, lendo as descrições, escolhe as ferramentas certas. Resultado: 12 de 12.
+
+**Leia as respostas, não só a nota.** Um caso aprovado diz "vou encaminhar para a equipe humana", e não existe ferramenta para isso. As regras procuram palavras e ferramentas, então não percebem uma promessa falsa. Regras fixas são baratas e repetíveis, mas só pegam o que você pensou em verificar. O módulo 10 trata de um modelo atuando como juiz para esse tipo de caso.
+
+**A segurança não depende dessa nota.** Se o modelo errar, o token continua limitando o que ele alcança.
+
+## 7. Limites deste projeto, para dizer em entrevista
 
 - **Tokens fixos, não OAuth.** A especificação usa OAuth para clientes de terceiros. Token fixo serve bem para integrações entre sistemas, mas não para um usuário final autorizar um aplicativo.
 - **Rate limit em memória, por instância.** Na Vercel, cada instância conta separadamente. Em produção, ficaria no Redis.

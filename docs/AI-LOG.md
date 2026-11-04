@@ -18,6 +18,10 @@ The dev server entry was written through a shell script, and the backslashes of 
 
 The panel said "today's free quota is over" on any 429. The logs showed otherwise: one model overloaded, one out of daily quota and one rate-limited at that moment. A visitor would have been told to come back tomorrow when a minute could have been enough. **Caught by:** checking each model's real error before believing the message. **Fix:** the message now only says the limit was reached, and a fourth model joined the fallback chain.
 
+### 5. Checks that pass over a wrong answer
+
+The evaluation scored 12 of 12, but the rules only look for tools and words. One passing answer promises to forward a refund request to the human team, and the agent has no tool for that. **Caught by:** reading the answers instead of stopping at the score. **Fix:** the README reports both. The prompt was not changed to chase this, because that needs a new run on quota, and a real fix belongs with the next project's actions.
+
 ## What needed a human
 
 - Choosing to host the server as well as run it locally, which is what makes tokens and rate limits real rather than decorative.
