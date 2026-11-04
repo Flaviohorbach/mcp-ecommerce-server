@@ -1,6 +1,6 @@
 {
   "name": "mcp-ecommerce-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server that gives AI agents catalog, inventory and order tools for a store, over a simulated VTEX API.",
   "type": "module",
   "license": "MIT",

@@ -4,7 +4,7 @@ import type { Principal } from "./auth";
 import type { VtexClient, VtexOrder, VtexProduct } from "./vtex-types";
 
 export const SERVER_NAME = "mcp-ecommerce-server";
-export const SERVER_VERSION = "0.1.0";
+export const SERVER_VERSION = "0.1.1";
 
 const POLICY = `# Prazos e devoluções (loja de demonstração)
 
